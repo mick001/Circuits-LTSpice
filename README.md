@@ -15,7 +15,7 @@ Some examples:
 
 ---
 
-###AC-DC and DC-AC converters
+### AC-DC and DC-AC converters
 
 1. DCDC full bridge.asc
 2. Full bridge inverter.asc
@@ -29,7 +29,7 @@ Some examples:
 10. Three phase naive supply system.asc
 11. Three phase rectifier.asc
 
-###Amplifiers
+### Amplifiers
 
 1. A class amplifier bjt.asc
 2. BJT emitter follower configuration.asc
@@ -38,7 +38,7 @@ Some examples:
 5. Instrumentation amplifier.asc
 6. Push pull amplifier.asc
 
-###Basics
+### Basics
 
 1. Example of DC sweep.asc
 2. How to set initial conditions.asc
@@ -46,7 +46,7 @@ Some examples:
 4. PNP transistor biasing.asc
 5. Transistor beta.asc
 
-###Comparator circuits
+### Comparator circuits
 
 1. Comparator with hysteresis asymmetrical window.asc
 2. Comparator with hysteresis symmetrical window.asc
@@ -55,24 +55,24 @@ Some examples:
 5. other circuits with hysteresis
 6. Window comparator.asc
 
-###DCDC converters
+### DCDC converters
 
 1. Boost converter 1.asc
 2. Boost converter 2.asc
 3. Buck converter.asc
 
-###Filters
+### Filters
 
-1. RC
-2. RL
-3. RLC
+1. RC (low pass, high pass, band pass)
+2. RL (low pass, high pass)
+3. RLC (low pass, high pass, notch, band suppress)
 
-###Lossless-transmission-line
+### Lossless-transmission-line
 
 1. Lossless transmission line DC transient.asc
 2. Lossless transmission line pulse.asc
 
-###Oscillators
+### Oscillators
 
 1. 555 timer.asc
 2. Astable multivibrator.asc
@@ -81,7 +81,7 @@ Some examples:
 5. Royer zvs.asc
 6. Wien oscillator.asc
 
-###Others
+### Others
 
 1. AM modulator.asc
 2. BJT for simple current regulation.asc
