@@ -13,7 +13,7 @@ Some examples:
 ### Three phase full bridge inverter PWM modulation with wye and delta connected loads
 ![image 003](https://user-images.githubusercontent.com/13961654/53668796-33d5ca80-3c75-11e9-9dc6-d9cf26519e03.png)
 
-####AC-DC and DC-AC converters
+###AC-DC and DC-AC converters
 
 -DCDC-full-bridge.asc
 -Full-bridge-inverter.asc
@@ -27,7 +27,7 @@ Some examples:
 -Three-phase-naive-supply-system.asc
 -Three-phase-rectifier.asc
 
-####Amplifiers
+###Amplifiers
 
 -A-class-amplifier-bjt.asc
 -BJT-emitter-follower-configuration.asc
@@ -36,7 +36,7 @@ Some examples:
 -Instrumentation-amplifier.asc
 -Push-pull-amplifier.asc
 
-####Basics
+###Basics
 
 -Example-of-DC-sweep.asc
 -How-to-set-initial-conditions.asc
@@ -44,7 +44,7 @@ Some examples:
 -PNP-transistor-biasing.asc
 -Transistor-beta.asc
 
-####Comparator circuits
+###Comparator circuits
 
 -Comparator-with-hysteresis-asymmetrical-window.asc
 -Comparator-with-hysteresis-symmetrical-window.asc
@@ -53,24 +53,24 @@ Some examples:
 -other circuits with hysteresis
 -Window-comparator.asc
 
-####DCDC converters
+###DCDC converters
 
 -Boost-converter-1.asc
 -Boost-converter-2.asc
 -Buck-converter.asc
 
-####Filters
+###Filters
 
 -RC (low pass, high pass, bandpass)
 -RL (low pass, high pass)
 -RLC (low pass, high pass, notch, band suppress)
 
-####Lossless-transmission-line
+###Lossless-transmission-line
 
 -Lossless-transmission-line-DC-transient.asc
 -Lossless-transmission-line-pulse.asc
 
-####Oscillators
+###Oscillators
 
 -555-timer.asc
 -Astable-multivibrator.asc
@@ -79,7 +79,7 @@ Some examples:
 -Royer-zvs.asc
 -Wien-oscillator.asc
 
-####Others
+###Others
 
 -AM-modulator.asc
 -BJT-for-simple-current-regulation.asc
