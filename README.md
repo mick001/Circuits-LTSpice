@@ -1,4 +1,4 @@
-## Circuits LTSpiceIV
+## Circuits simulations in LTSpiceIV
 
 This is my personal collection of circuits simulations in LTSpiceIV. At some point in time I simulated each one of these circuits and analyzed them. Sometimes I'd simulate a circuit we studied in class, other times I tested a theory and/or my understandings of a particular circuit, some other times I'd just simulate a design I found on the internet and other times I'd simulate a circuit I tried to build.
 
