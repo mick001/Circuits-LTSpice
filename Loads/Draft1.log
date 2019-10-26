@@ -1,0 +1,22 @@
+Circuit: * C:\HOME\SHARE_FROM_DRIVE\Desktop-Su-Drive\Circuiteria\Circuits-LTSpice\Loads\Draft1.asc
+
+Direct Newton iteration for .op point succeeded.
+Heightened Def Con from 0.00458809 to 0.00458809
+
+Date: Sun Oct 20 15:44:19 2019
+Total elapsed time: 0.120 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 5239
+traniter = 5229
+tranpoints = 1441
+accept = 1325
+rejected = 117
+matrix size = 17
+fillins = 12
+solver = Normal
+Matrix Compiler1: 1.08 KB object code size  0.3/0.2/[0.1]
+Matrix Compiler2: off  [0.1]/0.2/0.3
+
